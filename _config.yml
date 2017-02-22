@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
 
-title: [Zero Tolerance India]
-description: [Zero Tolerance Against Sexual Harassment in India]
+title: Zero Tolerance India
+description: Zero Tolerance Against Sexual Harassment in India
+
+show_downloads: false
+google_analytics:
