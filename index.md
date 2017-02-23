@@ -60,10 +60,4 @@ Been affected by MM or anyone else whose behaviour goes beyond ZERO TOLERANCE? S
 <hr>
 
 Made with <i class="fa fa-heart"></i> by folks just like you.
-<hr>
 
-##### Footnotes:
-
-[^1]: This is a footnote. Click to return.
-
-[^2]: Here is another.
