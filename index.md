@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Zero Tolerance to Sexual Harassment 
+## Lets stand togather against people who have been misbehaving women. We all would not want this kind of language and pervertish behavior to be used with our sisters, daughters or wife's and hence the boycott.
 
 ### Fight Against Sexual Harassment
 
